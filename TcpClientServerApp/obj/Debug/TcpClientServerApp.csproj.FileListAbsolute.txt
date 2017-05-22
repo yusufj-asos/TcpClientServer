@@ -1,0 +1,7 @@
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClientServerApp.exe.config
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClientServerApp.exe
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClientServerApp.pdb
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\obj\Debug\TcpClientServerApp.csprojResolveAssemblyReference.cache
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\obj\Debug\TcpClientServerApp.exe
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\obj\Debug\TcpClientServerApp.pdb
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClient.exe.config

@@ -1,0 +1,5 @@
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClient.exe.config
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClient.exe
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\bin\Debug\TcpClient.pdb
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\obj\Debug\TcpClient.exe
+c:\users\yusufj\documents\visual studio 2015\Projects\TcpClientServerApp\TcpClientServerApp\obj\Debug\TcpClient.pdb
