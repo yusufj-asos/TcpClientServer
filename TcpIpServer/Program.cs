@@ -19,7 +19,7 @@ namespace TcpIpServer
                 // Set the TcpListener on port 13000.
                 Console.WriteLine("Tcp server");
                 Int32 port = 13000;
-                IPAddress localAddr = IPAddress.Parse("10.200.34.21");
+                IPAddress localAddr = IPAddress.Parse("You ip address");
 
                 // TcpListener server = new TcpListener(port);
                 server = new TcpListener(localAddr, port);

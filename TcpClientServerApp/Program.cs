@@ -24,7 +24,7 @@ namespace TcpClientServerApp
 
 
                 Int32 port = 13000;
-                TcpClient client = new TcpClient("10.200.34.21", port);
+                TcpClient client = new TcpClient("You ip address", port);
 
                 // Translate the passed message into ASCII and store it as a Byte array.
                 Byte[] data = System.Text.Encoding.ASCII.GetBytes(message);
